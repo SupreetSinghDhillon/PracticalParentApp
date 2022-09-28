@@ -34,7 +34,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Activity that controls the coin flipping mechanism of this app
+ * Activity that controls the coin flipping mechanism of this Android Studio app
  */
 public class CoinFlipActivity extends AppCompatActivity {
 
